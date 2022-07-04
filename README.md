@@ -1,6 +1,6 @@
-# Exercícios de Python 3
+# Exercícios de Python 3 <img src='https://miro.medium.com/max/1400/1*FH2TFHuKllkE8t-TuXOQKg.gif' height="50px">
 
-Lista de exercícios produzida no acompanhamento do curso do professor Gustavo Guanabara do canal do Youtube *"Curso em Video"* [<img src="https://yt3.ggpht.com/ytc/AKedOLRIYqffphLkoTlUA-hlcySXppGOpDgcAFjLaiB2gg=s88-c-k-c0x00ffffff-no-rj" alt="Logo Canal Curso em Video">] (https://www.youtube.com/c/CursoemV%C3%ADdeo)
+Lista de exercícios produzida no acompanhamento do curso do professor Gustavo Guanabara do canal do Youtube [*Curso em Video*](https://www.youtube.com/c/CursoemV%C3%ADdeo) 
 
 ### Mundo 1
 
@@ -27,7 +27,7 @@ Lista de exercícios produzida no acompanhamento do curso do professor Gustavo G
 - Exercício Python #013 - [Reajuste salarial](https://github.com/jfkarurosu/python-learning/tree/main/exercicios-curso-video/ex013.py)
 - Exercício Python #014 - [Conversor de temperaturas](https://github.com/jfkarurosu/python-learning/tree/main/exercicios-curso-video/ex014.py)
 - Exercício Python #015 - [Aluguel de carros](https://github.com/jfkarurosu/python-learning/tree/main/exercicios-curso-video/ex015.py)
-
+<!--
 #### Módulos
 
 - Exercício Python #016 - [Quebrando um número]()
